@@ -34,6 +34,7 @@ public class ArticleController {
 	private static final Logger logger = Logger
 			.getLogger(ArticleController.class.getName());
 
+			
 	@RequestMapping("/openArticleMaster.htm")
 	public ModelAndView openArticleMaster() throws SQLException {
 		ModelAndView model1 = new ModelAndView("articleMaster");
