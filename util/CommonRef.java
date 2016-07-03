@@ -23,7 +23,7 @@ import com.java.DAO.ProductionDAO;
 import com.java.DTO.ProductionDTO;
 
 public class CommonRef {
-
+//
 	private static final Logger logger = Logger.getLogger(CommonRef.class
 			.getName());
 
